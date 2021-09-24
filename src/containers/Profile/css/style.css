@@ -1,0 +1,25 @@
+.mt-20 {
+    margin-top: 20px;
+}
+.btn-danger{
+    background-color: red;
+    width: 20%;
+    height: 5vh;
+    border-radius: 10px;
+}
+ .Link{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.Link:hover{
+    color: black;
+}
+.btn-danger:hover{
+    background-color: lightcoral;
+    
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
